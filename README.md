@@ -7,7 +7,7 @@
 
 📚 I’m currently learning **React, Redux, Typescript**
 
-👨‍💻 All of my projects are available at **[https://bliudesigns.com](https://bliudesigns.com)**
+👨‍💻 All of my projects are available at **[https://billyliu.info](https://billyliu.info)**
 
 📫 How to reach me **https://reach.at/billyliu**
 </p>
