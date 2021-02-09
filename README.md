@@ -60,9 +60,10 @@
 
 ---
 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="billyliu" data-color="#FF5F5F" data-emoji="🍕"  data-font="Poppins" data-text="Buy me a slice of pizza!" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
 <p>
   <a href="https://linkedin.com/in/liu-billy" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="liu-billy" height="30" width="30" /></a>
   <a href="https://stackoverflow.com/users/13973079" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13973079" height="30" width="30" /></a>
   <img src="https://komarev.com/ghpvc/?username=itzbillyliu&style=flat" alt="itzbillyliu" />
-  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="billyliu" data-color="#FF5F5F" data-emoji="🍕"  data-font="Poppins" data-text="Buy me a slice of pizza!" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 </p>
