@@ -3,21 +3,20 @@
 
 😄 Pronouns: **he, him, his**
 
-👨🏻‍💻 I’m currently working on **[Overpaid?](https://github.com/itzbillyliu/overpaid)**
+👨🏻‍💻 I’m currently working on **[Overpaid?](https://github.com/itzbillyliu/overpaid)** All of my projects are available at **[https://billyliu.info](https://billyliu.info)**
 
 📚 I’m currently learning **React, Redux, Typescript**
 
-👨‍💻 All of my projects are available at **[https://billyliu.info](https://billyliu.info)**
-
-📫 How to reach me **https://reach.at/billyliu**
+📫 Reach me at **https://reach.at/billyliu**
 </p>
 
 ---
 
 <h3>Notable Skills</h3>
-> CSS/LESS/SASS, Bootstrap, ChartJS, GatsbyJS, Semantic UI
-> JavaScript (jQuery, node, React, Redux, TypeScript), MongoDB, MySQL, PHP, Python
-> Adobe Creative Suite, Affinity Creative Software, Git, InVision Prototyping Tools
+
+- CSS/LESS/SASS, Bootstrap, ChartJS, GatsbyJS, Semantic UI
+- JavaScript (jQuery, node, React, Redux, TypeScript), MongoDB, MySQL, PHP, Python
+- Adobe Creative Suite, Affinity Creative Software, Git, InVision Prototyping Tools
 
 ---
 
