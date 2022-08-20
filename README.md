@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Billy</h1>
-<h3 align="center">I'm a passionate frontend developer in New York City</h3>
+<h3 align="center">I'm a passionate software developer in New York City</h3>
 
 😄 Pronouns: **he, him, his**
 
@@ -14,49 +14,10 @@
 
 ---
 
-<table>
-  <thead>
-    <th>Tech Stack</th>
-    <th>Frameworks/Libraries</th>
-    <th>Software</th>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top">
-        <ul>
-          <li>CSS/LESS/SASS</li>
-          <li>Git</li>
-          <li>Gulp</li>
-          <li>HTML</li>
-          <li>JavaScript</li>
-          <li>MongoDB</li>
-          <li>MySQL</li>
-          <li>PHP</li>
-          <li>Python</li>
-          <li>TypeScript</li>
-        </ul>
-      </td>
-      <td valign="top">
-        <ul>
-          <li>Bootstrap</li>
-          <li>ChartJS</li>
-          <li>GatsbyJS</li>
-          <li>jQuery</li>
-          <li>ReactJS</li>
-          <li>Redux</li>
-        </ul>
-      </td>
-      <td valign="top">
-        <ul>
-          <li>Adobe Illustrator</li>
-          <li>Adobe InDesign</li>
-          <li>Adobe Photoshop</li>
-          <li>InVision</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<h3>Notable Skills</h3>
+> CSS/LESS/SASS, Bootstrap, ChartJS, GatsbyJS, Semantic UI
+> JavaScript (jQuery, node, React, Redux, TypeScript), MongoDB, MySQL, PHP, Python
+> Adobe Creative Suite, Affinity Creative Software, Git, InVision Prototyping Tools
 
 ---
 
